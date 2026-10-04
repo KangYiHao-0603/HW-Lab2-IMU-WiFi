@@ -1,0 +1,11 @@
+../Core/Src/wifi.c:42:5:checkWifiEvent	4	static
+../Core/Src/wifi.c:57:5:getWifiModuleReady	16	static
+../Core/Src/wifi.c:117:6:littleToBig	4	static
+../Core/Src/wifi.c:129:6:bigToLittle	4	static
+../Core/Src/wifi.c:79:6:sendCommand	32	static
+../Core/Src/wifi.c:141:6:setSensor	16	static
+../Core/Src/wifi.c:161:6:setDataInt	40	static
+../Core/Src/wifi.c:187:6:setDataFloat	40	static
+../Core/Src/wifi.c:213:6:sendData	2040	static
+../Core/Src/wifi.c:242:6:startWifi	8	static
+../Core/Src/wifi.c:265:6:wifi_post_json	16	static

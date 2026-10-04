@@ -1,0 +1,10 @@
+../Core/Src/imu.c:34:16:reg_read	1
+../Core/Src/imu.c:41:13:regs_read	1
+../Core/Src/imu.c:29:13:reg_write	1
+../Core/Src/imu.c:47:6:imu_gpio_init	1
+../Core/Src/imu.c:75:5:imu_init	2
+../Core/Src/imu.c:91:6:imu_read	3
+../Core/Src/imu.c:110:6:sigmot_init	1
+../Core/Src/imu.c:129:9:sigmot_read_and_clear	1
+../Core/Src/imu.c:135:6:sigmot_rearm	1
+../Core/Src/imu.c:145:6:HAL_GPIO_EXTI_Callback	2
